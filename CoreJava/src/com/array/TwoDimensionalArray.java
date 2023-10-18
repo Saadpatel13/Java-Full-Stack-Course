@@ -6,7 +6,7 @@ public class TwoDimensionalArray {
 
 	public static void main(String[] args) {
 		
-		
+		// This is to create scanner class object
 		Scanner sc = new Scanner (System.in);
 		int lenr,lenc;
 		

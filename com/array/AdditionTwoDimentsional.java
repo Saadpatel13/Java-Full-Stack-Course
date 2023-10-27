@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class AdditionTwoDimentsional {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner (System.in); // input
+		Scanner sc = new Scanner (System.in);
 		int lenr,lenc,sum=0;
 		
 		System.out.println("Enter the number of Rows in Array");

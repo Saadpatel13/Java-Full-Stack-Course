@@ -2,10 +2,9 @@ package com.array;
 
 import java.util.Scanner;
 
-public class ArraySortingAscending {
+public class ArraySortingDescending {
 
 	public static void main(String[] args) {
-
 		int[] a = new int[5];
 
         Scanner sc = new Scanner(System.in);
@@ -37,5 +36,7 @@ public class ArraySortingAscending {
                 }
             }
         }
+
+	}
+
 }
-   }
